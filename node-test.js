@@ -1,1 +1,1 @@
-console.log('Test başarılı!');
+npm install discord.js
