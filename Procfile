@@ -1,1 +1,1 @@
-worker asd.bat
+worker node node-test.js
